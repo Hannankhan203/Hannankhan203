@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I’m a Front-End Developer passionate about build
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Animate.css](https://img.shields.io/badge/-Animate.css-39D1F6?logo=javascript&logoColor=white)
 <!-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) -->
