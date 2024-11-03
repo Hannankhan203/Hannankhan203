@@ -70,7 +70,7 @@ I occasionally write articles on [Your Blog, e.g., Medium, Dev.to] about [mentio
 
 ## 🎯 Goals for 2025
 
-- Improve skills in backend development.
+- Improve skills in frontend and backend development, C++, Java and start learning Python.
 - Contribute to open-source projects.
 - Complete Cisco Certification in advance JavaScript.
 
