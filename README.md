@@ -29,9 +29,9 @@ Description: Tic Tac Toe, Rock Paper Scissors, Hangman, Guess the number, Word s
 Description: Coursing, website for online web development courses (Practice).  
 **Tech Stack**: HTML, CSS, Bootstrap
 
-<!-- ### [Project Name 3](https://github.com/yourusername/project3)
-Description: Briefly describe this project and any notable features.  
-**Tech Stack**: [mention languages and tools used, e.g., Java, Spring Boot, MySQL] -->
+### [Project Name 3](https://github.com/Hannankhan203/Scientific-Calculator.git)
+Description: A scientific calculator with custom mode button.  
+**Tech Stack**: HTML, CSS, & JS
 
 ---
 
