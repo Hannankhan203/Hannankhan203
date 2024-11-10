@@ -25,11 +25,11 @@ Welcome to my GitHub profile! I’m a Front-End Developer passionate about build
 Description: Tic Tac Toe, Rock Paper Scissors, Hangman, Guess the number, Word scramble, Memory matching.  
 **Tech Stack**: HTML, CSS, JavaScript
 
-<!-- ### [Project Name 2](https://github.com/yourusername/project2)
-Description: Briefly describe this project and any notable features.  
-**Tech Stack**: [mention languages and tools used, e.g., Python, Flask, SQL]
+### [Project Name 2](https://github.com/Hannankhan2003/Coursing-Practice-site)
+Description: Coursing, website for online web development courses (Practice).  
+**Tech Stack**: HTML, CSS, Bootstrap
 
-### [Project Name 3](https://github.com/yourusername/project3)
+<!-- ### [Project Name 3](https://github.com/yourusername/project3)
 Description: Briefly describe this project and any notable features.  
 **Tech Stack**: [mention languages and tools used, e.g., Java, Spring Boot, MySQL] -->
 
