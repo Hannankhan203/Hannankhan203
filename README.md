@@ -31,7 +31,7 @@ Description: Coursing, website for online web development courses (Practice).
 
 ### [Project Name 3](https://github.com/Hannankhan203/Scientific-Calculator.git)
 Description: A scientific calculator with custom mode button.  
-**Tech Stack**: HTML, CSS, & JS
+**Tech Stack**: HTML, CSS, & JavaScript
 
 ---
 
