@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I’m a Front-End Developer passionate about build
 Description: Tic Tac Toe, Rock Paper Scissors, Hangman, Guess the number, Word scramble, Memory matching.  
 **Tech Stack**: HTML, CSS, & JavaScript
 
-### [Project Name 2](https://github.com/Hannankhan203/Coursing-Practice-site.git)
+### [Project Name 2](https://github.com/Hannankhan203/Coursing-Site.git)
 Description: Coursing, website for online web development courses (Practice).  
-**Tech Stack**: HTML, CSS, & Bootstrap
+**Tech Stack**: HTML, CSS, & JavaScript
 
 ### [Project Name 3](https://github.com/Hannankhan203/Scientific-Calculator.git)
 Description: A scientific calculator with custom mode button.  
