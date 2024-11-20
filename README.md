@@ -55,8 +55,8 @@ I occasionally write articles on [Your Blog, e.g., Medium, Dev.to] about [mentio
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin)](https://www.linkedin.com/in/abdul-hannan-khan-12370a22a/)
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&link=https://twitter.com/yourtwitterhandle)](https://twitter.com/yourtwitterhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com) -->
+<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&link=https://twitter.com/yourtwitterhandle)](https://twitter.com/yourtwitterhandle) -->
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox&logoColor=white&link=https://yourportfolio.com)](https://hannankhan203.github.io/My-Portfolio/)
 
 ---
 
