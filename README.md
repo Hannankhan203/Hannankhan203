@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I’m a Front-End Developer passionate about build
 ## 📘 Projects
 
 ### [Project Name 1](https://github.com/Hannankhan203/Games.git)
-Description: Tic Tac Toe, Rock Paper Scissors, Hangman, Guess the number, Word scramble, Memory matching.  
+Description: Tic Tac Toe, Rock Paper Scissors, Hangman, Guess the number, Word scramble, Memory matching, & Snake game.  
 **Tech Stack**: HTML, CSS, & JavaScript
 
 ### [Project Name 2](https://github.com/Hannankhan203/Coursing-Site.git)
@@ -54,7 +54,7 @@ I occasionally write articles on [Your Blog, e.g., Medium, Dev.to] about [mentio
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin)](https://www.linkedin.com/in/abdul-hannan-khan-12370a22a/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin)](https://www.linkedin.com/in/abdul-hannan-khan-16b358358/)
 <!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&link=https://twitter.com/yourtwitterhandle)](https://twitter.com/yourtwitterhandle) -->
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox&logoColor=white&link=https://yourportfolio.com)](https://hannankhan203.github.io/My-Portfolio/)
 
@@ -63,14 +63,14 @@ I occasionally write articles on [Your Blog, e.g., Medium, Dev.to] about [mentio
 ## 📫 How to Reach Me
 
 - **Email**: ak1818375@gmail.com
-- **LinkedIn**: [linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/abdul-hannan-khan-12370a22a/)
+- **LinkedIn**: [linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/abdul-hannan-khan-16b358358/)
 <!-- - **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) -->
 
 ---
 
 ## 🎯 Goals for 2025
 
-- Improve skills in frontend and backend development, C++, Java and start learning Python.
+- Improve skills in frontend and backend development, C++, Java.
 - Contribute to open-source projects.
 - Complete Cisco Certification in advance JavaScript.
 
