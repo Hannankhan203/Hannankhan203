@@ -63,7 +63,7 @@ Description: A scientific calculator with custom mode button.
 
 ### freeCodeCamp — JavaScript Algorithm and Data Structures
 
-![freeCodeCamp Certificate](./Certificates/freeCodeCamp%20JavaScript%20Algorithm%20and%20Data%20Structures%20Certificate.png)
+![freeCodeCamp JavaScript Algorithm and Data Structures Certificate](./Certificates/freeCodeCamp%20JavaScript%20Algorithm%20and%20Data%20Structures%20Certificate.png)
 
 ---
 
@@ -74,7 +74,7 @@ I occasionally write articles on [Your Blog, e.g., Medium, Dev.to] about [mentio
 - [Blog Post 1](link-to-blog-post-1)
 - [Blog Post 2](link-to-blog-post-2)
 
---- -->
+---
 
 ## 🌐 Connect with Me
 
