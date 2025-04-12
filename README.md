@@ -49,6 +49,18 @@ Description: A scientific calculator with custom mode button.
 
 ![freeCodeCamp Certificate](./Certificates/freeCodeCamp%20Responsive%20Web%20Design%20Certificate.png)
 
+### OpenWeaver — HTML CSS Certificate
+
+![OpenWeaver HTML CSS Certificate](./Certificates/OpenWeaver%20HTML%20CSS%20Certificate.png)
+
+### OpenWeaver — JavaScript Certificate
+
+![OpenWeaver JavaScript Certificate](./Certificates/OpenWeaver%20JavaScript%20Certificate.png)
+
+### JavaScript Essentials — Certified by Cisco (Offered by SMIT)
+
+![JavaScript Essentials by Cisco](./Certificates/JavaScript%20Essentials%20Certificated%20by%20Cisco%20Offered%20by%20SMIT.png)
+
 ---
 
 <!-- ## 📝 Blog & Writing
