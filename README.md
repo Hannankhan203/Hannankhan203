@@ -61,6 +61,10 @@ Description: A scientific calculator with custom mode button.
 
 ![JavaScript Essentials by Cisco](./Certificates/JavaScript%20Essentials%20Certificated%20by%20Cisco%20Offered%20by%20SMIT.png)
 
+### freeCodeCamp — JavaScript Algorithm and Data Structures
+
+![freeCodeCamp Certificate](./Certificates/freeCodeCamp%20JavaScript%20Algorithm%20and%20Data%20Structures%20Certificate.png)
+
 ---
 
 <!-- ## 📝 Blog & Writing
