@@ -35,18 +35,19 @@ Description: A scientific calculator with custom mode button.
 
 ---
 
-## 🏆 Certificates
-
-![freeCodeCamp Responsive Web Design Certificate](https://github.com/Hannankhan203/Hannankhan203/Certificates/freecodecamp-responsive-web-design-certificate.png?raw=true)(https://github.com/Hannankhan203/Hannankhan203/Certificates/freecodecamp-responsive-web-design-certificate.png?raw=true)
-
-
----
-
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hannankhan203&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hannankhan203&layout=compact&theme=default)
+
+---
+
+## 🎖️ Certificates
+
+### freeCodeCamp — Responsive Web Design
+
+![freeCodeCamp Certificate](./Certificates/freeCodeCamp%20Responsive%20Web%20Design%20Certificate.png)
 
 ---
 
