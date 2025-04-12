@@ -37,7 +37,7 @@ Description: A scientific calculator with custom mode button.
 
 ## 🏆 Certificates
 
-![freeCodeCamp Responsive Web Design Certificate](https://github.com/Hannankhan203/Hannankhan203/blob/main/Certificates/freecodecamp-responsive-web-design-certificate.png?raw=true)(https://github.com/Hannankhan203/Hannankhan203/blob/main/certificates/freecodecamp-responsive-web-design-certificate.png?raw=true)
+![freeCodeCamp Responsive Web Design Certificate](https://github.com/Hannankhan203/Hannankhan203/Certificates/freecodecamp-responsive-web-design-certificate.png?raw=true)(https://github.com/Hannankhan203/Hannankhan203/Certificates/freecodecamp-responsive-web-design-certificate.png?raw=true)
 
 
 ---
