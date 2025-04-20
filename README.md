@@ -43,19 +43,21 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 ### [🎮 Mini Games Collection](https://github.com/Hannankhan203/Games)
 Tic Tac Toe, Rock Paper Scissors, Hangman, Guess the Number, Word Scramble, Memory Match, Snake Game.  
 **Tech Stack**: HTML, CSS, JavaScript
+**Link**: [Live Demo](https://hannankhan203.github.io/Classic-Games/)
 
 ### [📚 Coursing Website](https://github.com/Hannankhan203/Coursing-Site)
 Practice project simulating a web development course platform.  
 **Tech Stack**: HTML, CSS, JavaScript
+**Link**: [Live Demo](https://hannankhan203.github.io/Coursing-Site/)
 
 ### [🧮 Scientific Calculator](https://github.com/Hannankhan203/Scientific-Calculator)
 A custom-designed scientific calculator with theme toggle.  
 **Tech Stack**: HTML, CSS, JavaScript
+**Link**: [Live Demo](https://hannankhan203.github.io/Scientific-Calculator/)
 
 ### [📝 Notes Taking App](https://hannankhan203.github.io/Notes/)
 Create, save, and manage personal notes in the browser.  
 **Tech Stack**: HTML, CSS, JavaScript  
-**Skills Gained**: DOM manipulation, data persistence using `localStorage`, modular JS  
 **Link**: [Live Demo](https://hannankhan203.github.io/Notes/)
 
 ---
