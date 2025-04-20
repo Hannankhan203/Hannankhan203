@@ -29,12 +29,12 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) -->
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) -->
 <!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/your-site-id/deploy-status)](https://app.netlify.com/sites/your-site-name/deploys) -->
 <!-- [![Bitbucket](https://img.shields.io/badge/Bitbucket-Visit-0052CC?logo=bitbucket&logoColor=white)](https://bitbucket.org/yourusername/) -->
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
 
 ---
 
