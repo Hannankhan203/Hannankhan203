@@ -72,6 +72,7 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 - ✅ **Responsive Web Design** – freeCodeCamp  
 - ✅ **CSS (Basic)** – HackerRank  
 - ✅ **JavaScript (Basic)** – HackerRank  
+- ✅ **JavaScript (Intermediate)** – HackerRank  
 - ✅ **JavaScript Essentials** – Cisco (Offered by SMIT)
 
 📁 Certificates are available in the `Certificates` folder of this profile repo.
