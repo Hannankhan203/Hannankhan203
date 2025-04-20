@@ -54,9 +54,9 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hannankhan203&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hannankhan203&layout=compact&theme=default)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hannankhan203&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Hannankhan203&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hannankhan203&theme=default)](https://git.io/streak-stats)
-![Profile Views](https://komarev.com/ghpvc/?username=Hannankhan203&label=Profile%20views&color=0e75b6&style=flat)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Hannankhan203&label=Profile%20views&color=0e75b6&style=flat) -->
 
 
 ---
