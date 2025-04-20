@@ -1,8 +1,10 @@
 # Hi there, I'm Abdul Hannan Khan 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Hannankhan203?label=Follow&style=social)](https://github.com/Hannankhan203)
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle) -->
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/)
+
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle) -->
 
 
 Welcome to my GitHub! I'm a passionate developer and continuous learner, currently working my way to becoming a skilled MERN Stack Developer.
@@ -53,9 +55,13 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hannankhan203&show_icons=true&theme=default)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hannankhan203&layout=compact&theme=default)
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Hannankhan203&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) -->
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hannankhan203&theme=default)](https://git.io/streak-stats)
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Hannankhan203&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) -->
+
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Hannankhan203&label=Profile%20views&color=0e75b6&style=flat) -->
 
 
