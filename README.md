@@ -70,9 +70,8 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 ## 🏅 Certificates
 
 - ✅ **Responsive Web Design** – freeCodeCamp  
-- ✅ **JavaScript Algorithms & Data Structures** – freeCodeCamp  
-- ✅ **HTML & CSS** – OpenWeaver  
-- ✅ **JavaScript** – OpenWeaver  
+- ✅ **CSS (Basic)** – HackerRank  
+- ✅ **JavaScript (Basic)** – HackerRank  
 - ✅ **JavaScript Essentials** – Cisco (Offered by SMIT)
 
 📁 Certificates are available in the `Certificates` folder of this profile repo.
