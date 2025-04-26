@@ -2,9 +2,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Hannankhan203?label=Follow&style=social)](https://github.com/Hannankhan203)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/) -->
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle) -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://x.com/Hannankhan203)
 
 
 Welcome to my GitHub! I'm a passionate developer and continuous learner, currently working my way to becoming a skilled MERN Stack Developer.
@@ -73,7 +73,8 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 - ✅ **CSS (Basic)** – HackerRank  
 - ✅ **JavaScript (Basic)** – HackerRank  
 - ✅ **JavaScript (Intermediate)** – HackerRank  
-- ✅ **JavaScript Essentials** – Cisco (Offered by SMIT)
+- ✅ **JavaScript (Intermediate)** – Udemy  
+- ✅ **CSS, Bootstrap, JavaScript, & Web Development** – Cisco (Offered by SMIT)
 
 📁 Certificates are available in the `Certificates` folder of this profile repo.
 
@@ -81,11 +82,11 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/)
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/) -->
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Hannankhan203)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox&logoColor=white)](https://hannankhan203.github.io/My-Portfolio/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/hannan.dev/)
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle) -->
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Hannankhan203)
 
 ---
 
