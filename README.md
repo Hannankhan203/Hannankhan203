@@ -73,8 +73,8 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 - ✅ **CSS (Basic)** – HackerRank  
 - ✅ **JavaScript (Basic)** – HackerRank  
 - ✅ **JavaScript (Intermediate)** – HackerRank  
-- ✅ **JavaScript (Intermediate)** – Udemy  
-- ✅ **CSS, Bootstrap, JavaScript, & Web Development** – Cisco (Offered by SMIT)
+- ✅ **CSS, Bootstrap, JavaScript, & Web Development** – Udemy  
+- ✅ **JavaScript Essentials 1** – Cisco (Offered by SMIT)
 
 📁 Certificates are available in the `Certificates` folder of this profile repo.
 
