@@ -4,7 +4,7 @@
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/) -->
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://x.com/Hannankhan203)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Hannankhan203?style=social)](https://x.com/Hannankhan203)
 
 
 Welcome to my GitHub! I'm a passionate developer and continuous learner, currently working my way to becoming a skilled MERN Stack Developer.
@@ -93,7 +93,7 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 ## 📫 How to Reach Me
 
 - **📧 Email**: ak1818375@gmail.com  
-- **💼 LinkedIn**: [linkedin.com/in/abdul-hannan-khan-16b358358](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361)  
+<!-- - **💼 LinkedIn**: [linkedin.com/in/abdul-hannan-khan-16b358358](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361)   -->
 - **🌐 Portfolio**: [hannankhan203.github.io/My-Portfolio](https://hannankhan203.github.io/My-Portfolio/)
 
 ---
