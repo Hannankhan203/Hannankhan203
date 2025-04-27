@@ -74,6 +74,7 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 - ✅ **JavaScript (Basic)** – HackerRank  
 - ✅ **JavaScript (Intermediate)** – HackerRank  
 - ✅ **CSS, Bootstrap, JavaScript, & Web Development** – Udemy  
+- ✅ **National Virtual Coding & AI Quiz Competition** – CosmiCode  
 - ✅ **JavaScript Essentials 1** – Cisco (Offered by SMIT)
 
 📁 Certificates are available in the `Certificates` folder of this profile repo.
