@@ -1,6 +1,6 @@
 # Hi there, I'm Abdul Hannan Khan 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/Hannankhan203?label=Follow&style=social)](https://github.com/Hannankhan203)xss
+[![GitHub followers](https://img.shields.io/github/followers/Hannankhan203?label=Follow&style=social)](https://github.com/Hannankhan203)
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/) -->
 
