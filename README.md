@@ -35,6 +35,7 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) -->
 <!-- [![Bitbucket](https://img.shields.io/badge/Bitbucket-Visit-0052CC?logo=bitbucket&logoColor=white)](https://bitbucket.org/yourusername/) -->
 
