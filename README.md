@@ -43,13 +43,13 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 
 ## 📘 Projects
 
-| Project Name              | Live Link                                                       | GitHub Repo                                             | Tech Stack               |
-|---------------------------|-----------------------------------------------------------------|---------------------------------------------------------|---------------------------|
-| 🕹️ Classic Games         | [View Live](https://hannankhan203.github.io/Classic-Games/)      | [GitHub](https://github.com/Hannankhan203/Games)         | HTML, CSS, JavaScript     |
-| 💻 Coursing Site          | [View Live](https://hannankhan203.github.io/Coursing-Site/)      | [GitHub](https://github.com/Hannankhan203/Coursing-Site) | HTML, CSS, JavaScript     |
+| Project Name              | Live Link                                                       | GitHub Repo                                             | Tech Stack                       |
+|---------------------------|-----------------------------------------------------------------|---------------------------------------------------------|----------------------------------|
+| 🕹️ Classic Games         | [View Live](https://hannankhan203.github.io/Classic-Games/)      | [GitHub](https://github.com/Hannankhan203/Games)         | HTML, CSS, JavaScript            |
+| 💻 Coursing Site          | [View Live](https://hannankhan203.github.io/Coursing-Site/)      | [GitHub](https://github.com/Hannankhan203/Coursing-Site) | HTML, CSS, JavaScript            |
 | 🧮 Scientific Calculator  | [View Live](https://hannankhan203.github.io/Scientific-Calculator/) | [GitHub](https://github.com/Hannankhan203/Scientific-Calculator) | HTML, CSS, JavaScript     |
-| 📓 Notes App              | [View Live](https://hannankhan203.github.io/Notes/)              | [GitHub](https://github.com/Hannankhan203/Notes)         | HTML, CSS, JavaScript     |
-
+| 📓 Notes App              | [View Live](https://hannankhan203.github.io/Notes/)              | [GitHub](https://github.com/Hannankhan203/Notes)         | HTML, CSS, JavaScript            |
+| 🔐 Authentication Form   | [View Live](https://authentication-form-203.netlify.app/)        | [GitHub](https://github.com/Hannankhan203/Authentication-Form.git) | HTML, CSS, JavaScript, Firebase  |
 
 ---
 
