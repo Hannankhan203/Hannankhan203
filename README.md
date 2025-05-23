@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Abdul+Hannan+Khan;A+Front-End+Developer;A+JavaScript+Enthusiast;A+Clean+Coder&center=true&width=500&height=50&font=Fira%20Code&pause=1000&color=36BCF7&vCenter=true)](https://github.com/Hannankhan203)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Abdul+Hannan+Khan;A+Front-End+Developer;A+JavaScript+Enthusiast;A+Clean+Coder&width=500&height=50&font=Fira%20Code&pause=1000&color=36BCF7&vCenter=true)](https://github.com/Hannankhan203)
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Hannankhan203?label=Follow&style=social)](https://github.com/Hannankhan203)
