@@ -1,6 +1,6 @@
 # Hi there, I'm Abdul Hannan Khan 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Front-End+Developer;A+JavaScript+Enthusiast;MERN+Stack+Learner;A+Clean+Coder&width=500&height=60&font=Fira%20Code&pause=1000&color=36BCF7&vCenter=true&size=40)](https://github.com/Hannankhan203)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Front-End+Developer;A+JavaScript+Enthusiast;MERN+Stack+Learner;A+Clean+Coder&width=500&height=60&font=Fira%20Code&pause=1000&color=36BCF7&vCenter=true&size=35)](https://github.com/Hannankhan203)
 
 [![GitHub followers](https://img.shields.io/github/followers/Hannankhan203?label=Follow&style=social)](https://github.com/Hannankhan203)
 
