@@ -104,6 +104,7 @@
 <!-- Projects Section -->
 <h2 align="center">📘 Projects</h2>
 
+<!-- Projects Table -->
 <p align="center">
   Here are some of the projects I’ve built using modern web technologies:
 </p>
@@ -157,9 +158,12 @@
 
 ---
 
-## 📊 GitHub Stats
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hannankhan203&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hannankhan203&show_icons=true&theme=radical&hide_border=false&rank_icon=github&include_all_commits=true&custom_title=Hannan's%20GitHub%20Stats" alt="GitHub Stats" />
+</p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hannankhan203&layout=compact&theme=default)
 
