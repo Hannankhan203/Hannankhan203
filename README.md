@@ -197,17 +197,22 @@
 
 ---
 
-## 🏅 Certificates
+<!-- Certificates -->
+<h2 align="center">🏅 Certificates</h2>
 
-- ✅ **Responsive Web Design** – freeCodeCamp
-- ✅ **CSS (Basic)** – HackerRank
-- ✅ **JavaScript (Basic)** – HackerRank
-- ✅ **JavaScript (Intermediate)** – HackerRank
-- ✅ **CSS, Bootstrap, JavaScript, & Web Development** – Udemy
-- ✅ **National Virtual Coding & AI Quiz Competition** – CosmiCode
-- ✅ **JavaScript Essentials 1** – Cisco (Offered by SMIT)
+p align="center">
+  ✅ <strong>Responsive Web Design</strong> – freeCodeCamp <br />
+  ✅ <strong>CSS (Basic)</strong> – HackerRank <br />
+  ✅ <strong>JavaScript (Basic)</strong> – HackerRank <br />
+  ✅ <strong>JavaScript (Intermediate)</strong> – HackerRank <br />
+  ✅ <strong>CSS, Bootstrap, JavaScript, & Web Development</strong> – Udemy <br />
+  ✅ <strong>National Virtual Coding & AI Quiz Competition</strong> – CosmiCode <br />
+  ✅ <strong>JavaScript Essentials 1</strong> – Cisco (Offered by SMIT)
+</p>
 
-📁 Certificates are available in the `Certificates` folder of this profile repo.
+<p align="center">
+  📁 <em>Certificates are available in the <code>Certificates</code> folder of this profile repo.</em>
+</p>
 
 ---
 
