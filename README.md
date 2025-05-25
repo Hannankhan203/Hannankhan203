@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <strong>🐦 Follow me on Twitter for updates and dev content!</strong>
+  <strong>❌ Follow me on Twitter for updates and dev content!</strong>
 </p>
 
 Welcome to my GitHub! I'm a passionate developer and continuous learner, currently working my way to becoming a skilled MERN Stack Developer.
