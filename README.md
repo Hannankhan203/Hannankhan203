@@ -181,7 +181,17 @@
   </a>
 </p>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Hannankhan203&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=Hannankhan203&theme=algolia&no-frame=true&margin-w=15&margin-h=15" 
+      alt="GitHub Trophies" 
+    />
+  </a>
+</p>
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Hannankhan203&label=Profile%20views&color=0e75b6&style=flat) -->
 
