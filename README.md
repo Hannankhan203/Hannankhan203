@@ -12,7 +12,16 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p> -->
 
-[![GitHub followers](https://img.shields.io/github/followers/Hannankhan203?label=Follow&style=social)](https://github.com/Hannankhan203)
+<!-- [![GitHub followers](https://img.shields.io/github/followers/Hannankhan203?label=Follow&style=social)](https://github.com/Hannankhan203) -->
+<p align="center">
+  <a href="https://github.com/Hannankhan203" target="_blank">
+    <img src="https://img.shields.io/github/followers/Hannankhan203?label=Follow&style=social" alt="GitHub Followers Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>👉 Follow me on GitHub to stay connected!</strong>
+</p>
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/) -->
 
