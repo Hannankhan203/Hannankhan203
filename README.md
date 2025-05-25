@@ -165,7 +165,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hannankhan203&show_icons=true&theme=radical&hide_border=false&rank_icon=github&include_all_commits=true&custom_title=Hannan's%20GitHub%20Stats" alt="GitHub Stats" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hannankhan203&layout=compact&theme=default)
+<!-- Top Languages -->
+<h2 align="center">🧠 Top Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hannankhan203&layout=compact&theme=radical&hide_border=false&langs_count=6" alt="Top Languages" />
+</p>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hannankhan203&theme=default)](https://git.io/streak-stats)
 
