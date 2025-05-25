@@ -7,13 +7,6 @@
 
 ---
 
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p> -->
-
 <!-- GitHub Follow -->
 <p align="center">
   <a href="https://github.com/Hannankhan203" target="_blank">
@@ -88,39 +81,17 @@
 <h2 align="center">🔧 Technologies & Tools</h2>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" title="HTML5">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin: 0 10px"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" title="CSS3">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin: 0 30px"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" title="JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 0 30px"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer" title="Bootstrap">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" style="margin: 0 30px"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer" title="React">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin: 0 30px"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" title="Git">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 0 30px"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin: 0 30px"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" title="VS Code">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin: 0 30px"/>
-  </a>
-  <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer" title="Netlify">
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40" style="margin: 0 30px"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer" title="Firebase">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" style="margin: 0 30px"/>
-  </a>
-  <a href="https://greensock.com/gsap/" target="_blank" rel="noopener noreferrer" title="GSAP">
-    <img src="https://greensock.com/uploads/monthly_2020_05/GSAP-logo.png.67cfa6284a7e1a1a01237586a1ee7b9f.png" alt="GSAP" width="40" height="40" style="margin: 0 30px; border-radius: 5px;"/>
-  </a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
 </p>
 
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) -->
