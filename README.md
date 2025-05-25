@@ -221,7 +221,7 @@
 
 <p align="center" style="margin-top: 1em;">
   <a href="https://github.com/Hannankhan203" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/github/followers/Hannankhan203?label=GitHub%20Followers&style=flat-square&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
   <a href="https://my-react-portfolio-203.netlify.app/" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" />
@@ -230,7 +230,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://x.com/Hannankhan203" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/follow/Hannankhan203?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Follow" />
   </a>
 </p>
 
