@@ -26,13 +26,17 @@
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/Hannankhan203?style=social)](https://x.com/Hannankhan203) -->
 <p align="center">
+  🐦
+</p>
+
+<p align="center">
   <a href="https://x.com/Hannankhan203" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Hannankhan203?style=social" alt="Twitter Follow Badge" />
   </a>
 </p>
 
 <p align="center">
-  <strong>❌ Follow me on Twitter for updates and dev content!</strong>
+  <strong>Follow me on Twitter (X) for tech tips and updates!</strong>
 </p>
 
 Welcome to my GitHub! I'm a passionate developer and continuous learner, currently working my way to becoming a skilled MERN Stack Developer.
