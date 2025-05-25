@@ -2,15 +2,15 @@
 <h1 align="center">Hi there, I'm Abdul Hannan Khan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Frontend+Developer.;Learning+MERN+Stack+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Frontend+Developer.;Learning+MERN+Stack+Development.;A+JavaScript+Enthusiast." alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+</p> -->
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Front-End+Developer;A+JavaScript+Enthusiast;MERN+Stack+Learner;A+Clean+Coder&width=500&height=60&font=Fira%20Code&pause=1000&color=36BCF7&vCenter=true&size=35)](https://github.com/Hannankhan203)
