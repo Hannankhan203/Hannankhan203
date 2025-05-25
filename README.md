@@ -242,7 +242,7 @@
   📬 Get In Touch With Me
 </h2>
 
-<p align="center" style="font-size: 1.1rem; line-height: 1.6;">
+<p align="center" style="font-size: 1.1rem; line-height: 1;">
   📧 <strong>Email:</strong> <a href="mailto:ak1818375@gmail.com">ak1818375@gmail.com</a><br><br>
   
   🌐 <strong>Portfolio:</strong> <a href="https://my-react-portfolio-203.netlify.app/" target="_blank">my-react-portfolio-203.netlify.app</a><br><br>
