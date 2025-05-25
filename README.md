@@ -200,7 +200,7 @@
 <!-- Certificates -->
 <h2 align="center">🏅 Certificates</h2>
 
-p align="center">
+<p align="center">
   ✅ <strong>Responsive Web Design</strong> – freeCodeCamp <br />
   ✅ <strong>CSS (Basic)</strong> – HackerRank <br />
   ✅ <strong>JavaScript (Basic)</strong> – HackerRank <br />
