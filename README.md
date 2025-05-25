@@ -83,17 +83,41 @@
 <!-- Technologies and Tools -->
 <h2 align="center">🔧 Technologies & Tools</h2>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=fff)
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" title="HTML5">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin: 0 10px"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" title="CSS3">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin: 0 10px"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" title="JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 0 10px"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer" title="Bootstrap">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" style="margin: 0 10px"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer" title="React">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin: 0 10px"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" title="Git">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 0 10px"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin: 0 10px"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" title="VS Code">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin: 0 10px"/>
+  </a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer" title="Netlify">
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40" style="margin: 0 10px"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer" title="Firebase">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" style="margin: 0 10px"/>
+  </a>
+  <a href="https://greensock.com/gsap/" target="_blank" rel="noopener noreferrer" title="GSAP">
+    <img src="https://greensock.com/uploads/monthly_2020_05/GSAP-logo.png.67cfa6284a7e1a1a01237586a1ee7b9f.png" alt="GSAP" width="40" height="40" style="margin: 0 10px; border-radius: 5px;"/>
+  </a>
+</p>
 
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) -->
 <!-- [![Bitbucket](https://img.shields.io/badge/Bitbucket-Visit-0052CC?logo=bitbucket&logoColor=white)](https://bitbucket.org/yourusername/) -->
