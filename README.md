@@ -242,15 +242,15 @@
   📬 Get In Touch With Me
 </h2>
 
-<p align="center" style="font-size: 1.1rem; line-height: 1;">
-  📧 <strong>Email:</strong> <a href="mailto:ak1818375@gmail.com">ak1818375@gmail.com</a><br><br>
+<div style="text-align:center; font-size:1.1rem; line-height:1;">
+  📧 <strong>Email:</strong> <a href="mailto:ak1818375@gmail.com" style="color:#1DA1F2; text-decoration:none;">ak1818375@gmail.com</a><br><br>
   
-  🌐 <strong>Portfolio:</strong> <a href="https://my-react-portfolio-203.netlify.app/" target="_blank">my-react-portfolio-203.netlify.app</a><br><br>
+  🌐 <strong>Portfolio:</strong> <a href="https://my-react-portfolio-203.netlify.app/" target="_blank" style="color:#1DA1F2; text-decoration:none;">my-react-portfolio-203.netlify.app</a><br><br>
   
-  🐦 <strong>Twitter:</strong> <a href="https://x.com/Hannankhan203" target="_blank">@Hannankhan203</a><br><br>
+  🐦 <strong>Twitter:</strong> <a href="https://x.com/Hannankhan203" target="_blank" style="color:#1DA1F2; text-decoration:none;">@Hannankhan203</a><br><br>
   
-  📸 <strong>Instagram:</strong> <a href="https://www.instagram.com/thewebdev_journey/" target="_blank">@thewebdev_journey</a>
-</p>
+  📸 <strong>Instagram:</strong> <a href="https://www.instagram.com/thewebdev_journey/" target="_blank" style="color:#E4405F; text-decoration:none;">@thewebdev_journey</a>
+</div>
 
 <!-- - **💼 LinkedIn**: [linkedin.com/in/abdul-hannan-khan-16b358358](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361)   -->
 
