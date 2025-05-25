@@ -62,15 +62,21 @@
 <!-- About Section -->
 <h2 align="center">👨‍💻 About Me</h2>
 
-I’m a Computer Science student at the **National University of Modern Languages (NUML)**, with a deep interest in **web development** and **software engineering principles**. My journey is focused on mastering modern technologies like **MongoDB, Express.js, React.js, and Node.js (MERN Stack)** while improving my logical thinking and problem-solving skills.
-
-I'm passionate about building:
-
-- Clean and responsive front-end interfaces 💻
-- Interactive and user-centric experiences 🎯
-- Real-world projects that solve real problems 🛠️
-
-I also believe in continuous learning, teamwork, and contributing to tech communities to grow together!
+<!-- About Me -->
+<p align="center">
+  I’m a <strong>Computer Science student</strong> at the <strong>National University of Modern Languages (NUML)</strong>, with a passion for <em>web development</em> and <em>software engineering principles</em>.<br><br>
+  
+  My journey is focused on mastering modern technologies like <strong>MongoDB, Express.js, React.js, and Node.js (MERN Stack)</strong>, while sharpening my logical thinking and problem-solving skills.<br><br>
+  
+  I love building:<br>
+  <ul style="display: inline-block; text-align: left;">
+    <li>💻 Clean and responsive front-end interfaces</li>
+    <li>🎯 Interactive and user-centric experiences</li>
+    <li>🛠️ Real-world projects that solve real problems</li>
+  </ul><br>
+  
+  I believe in continuous learning, teamwork, and contributing to tech communities to grow together!
+</p>
 
 ---
 
