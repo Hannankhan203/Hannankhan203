@@ -47,7 +47,15 @@
   <strong>📸 Follow me on Instagram for web dev content and updates!</strong>
 </p>
 
-Welcome to my GitHub! I'm a passionate developer and continuous learner, currently working my way to becoming a skilled MERN Stack Developer.
+<!-- Introduction -->
+<p align="center">
+  <strong>Welcome to my GitHub!</strong>
+</p>
+
+<p align="center">
+  I'm a passionate developer and continuous learner,<br>
+  currently working my way to becoming a skilled <em>MERN Stack Developer</em>.
+</p>
 
 ---
 
@@ -56,6 +64,7 @@ Welcome to my GitHub! I'm a passionate developer and continuous learner, current
 I’m a Computer Science student at the **National University of Modern Languages (NUML)**, with a deep interest in **web development** and **software engineering principles**. My journey is focused on mastering modern technologies like **MongoDB, Express.js, React.js, and Node.js (MERN Stack)** while improving my logical thinking and problem-solving skills.
 
 I'm passionate about building:
+
 - Clean and responsive front-end interfaces 💻
 - Interactive and user-centric experiences 🎯
 - Real-world projects that solve real problems 🛠️
@@ -77,6 +86,7 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=fff)
+
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) -->
 <!-- [![Bitbucket](https://img.shields.io/badge/Bitbucket-Visit-0052CC?logo=bitbucket&logoColor=white)](https://bitbucket.org/yourusername/) -->
 
@@ -84,13 +94,13 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 
 ## 📘 Projects
 
-| Project Name              | Live Link                                                       | GitHub Repo                                             | Tech Stack                       |
-|---------------------------|-----------------------------------------------------------------|---------------------------------------------------------|----------------------------------|
-| 🕹️ Classic Games         | [View Live](https://hannankhan203.github.io/Classic-Games/)      | [GitHub](https://github.com/Hannankhan203/Games)         | HTML, CSS, JavaScript            |
-| 💻 Coursing Site          | [View Live](https://hannankhan203.github.io/Coursing-Site/)      | [GitHub](https://github.com/Hannankhan203/Coursing-Site) | HTML, CSS, JavaScript            |
-| 🧮 Scientific Calculator  | [View Live](https://hannankhan203.github.io/Scientific-Calculator/) | [GitHub](https://github.com/Hannankhan203/Scientific-Calculator) | HTML, CSS, JavaScript     |
-| 📓 Notes App              | [View Live](https://hannankhan203.github.io/Notes/)              | [GitHub](https://github.com/Hannankhan203/Notes)         | HTML, CSS, JavaScript            |
-| 🔐 Authentication Form   | [View Live](https://authentication-form-203.netlify.app/)        | [GitHub](https://github.com/Hannankhan203/Authentication-Form.git) | HTML, CSS, JavaScript, Firebase  |
+| Project Name             | Live Link                                                           | GitHub Repo                                                        | Tech Stack                      |
+| ------------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------- |
+| 🕹️ Classic Games         | [View Live](https://hannankhan203.github.io/Classic-Games/)         | [GitHub](https://github.com/Hannankhan203/Games)                   | HTML, CSS, JavaScript           |
+| 💻 Coursing Site         | [View Live](https://hannankhan203.github.io/Coursing-Site/)         | [GitHub](https://github.com/Hannankhan203/Coursing-Site)           | HTML, CSS, JavaScript           |
+| 🧮 Scientific Calculator | [View Live](https://hannankhan203.github.io/Scientific-Calculator/) | [GitHub](https://github.com/Hannankhan203/Scientific-Calculator)   | HTML, CSS, JavaScript           |
+| 📓 Notes App             | [View Live](https://hannankhan203.github.io/Notes/)                 | [GitHub](https://github.com/Hannankhan203/Notes)                   | HTML, CSS, JavaScript           |
+| 🔐 Authentication Form   | [View Live](https://authentication-form-203.netlify.app/)           | [GitHub](https://github.com/Hannankhan203/Authentication-Form.git) | HTML, CSS, JavaScript, Firebase |
 
 ---
 
@@ -106,17 +116,16 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Hannankhan203&label=Profile%20views&color=0e75b6&style=flat) -->
 
-
 ---
 
 ## 🏅 Certificates
 
-- ✅ **Responsive Web Design** – freeCodeCamp  
-- ✅ **CSS (Basic)** – HackerRank  
-- ✅ **JavaScript (Basic)** – HackerRank  
-- ✅ **JavaScript (Intermediate)** – HackerRank  
-- ✅ **CSS, Bootstrap, JavaScript, & Web Development** – Udemy  
-- ✅ **National Virtual Coding & AI Quiz Competition** – CosmiCode  
+- ✅ **Responsive Web Design** – freeCodeCamp
+- ✅ **CSS (Basic)** – HackerRank
+- ✅ **JavaScript (Basic)** – HackerRank
+- ✅ **JavaScript (Intermediate)** – HackerRank
+- ✅ **CSS, Bootstrap, JavaScript, & Web Development** – Udemy
+- ✅ **National Virtual Coding & AI Quiz Competition** – CosmiCode
 - ✅ **JavaScript Essentials 1** – Cisco (Offered by SMIT)
 
 📁 Certificates are available in the `Certificates` folder of this profile repo.
@@ -126,6 +135,7 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 ## 🌐 Connect with Me
 
 <!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/) -->
+
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Hannankhan203)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox&logoColor=white)](https://my-react-portfolio-203.netlify.app/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/thewebdev_journey/)
@@ -135,7 +145,7 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 
 ## 📫 How to Reach Me
 
-- **📧 Email**: ak1818375@gmail.com  
+- **📧 Email**: ak1818375@gmail.com
 <!-- - **💼 LinkedIn**: [linkedin.com/in/abdul-hannan-khan-16b358358](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361)   -->
 - **🌐 Portfolio**: [my-react-portfolio-203.netlify.app/](https://my-react-portfolio-203.netlify.app/)
 
