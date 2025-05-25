@@ -24,8 +24,16 @@
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/) -->
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Hannankhan203?style=social)](https://x.com/Hannankhan203)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/Hannankhan203?style=social)](https://x.com/Hannankhan203) -->
+<p align="center">
+  <a href="https://x.com/Hannankhan203" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/Hannankhan203?style=social" alt="Twitter Follow Badge" />
+  </a>
+</p>
 
+<p align="center">
+  <strong>🐦 Follow me on Twitter for updates and dev content!</strong>
+</p>
 
 Welcome to my GitHub! I'm a passionate developer and continuous learner, currently working my way to becoming a skilled MERN Stack Developer.
 
