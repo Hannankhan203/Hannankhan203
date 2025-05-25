@@ -220,17 +220,17 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center" style="margin-top: 1em;">
-  <a href="https://github.com/Hannankhan203" target="_blank" style="margin: 0 12px; text-decoration: none; border-radius: 8px; overflow: hidden; display: inline-block;">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Hannankhan203" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://my-react-portfolio-203.netlify.app/" target="_blank" style="margin: 0 12px; text-decoration: none; border-radius: 8px; overflow: hidden; display: inline-block;">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  <a href="https://my-react-portfolio-203.netlify.app/" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.instagram.com/thewebdev_journey/" target="_blank" style="margin: 0 12px; text-decoration: none; border-radius: 8px; overflow: hidden; display: inline-block;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/thewebdev_journey/" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://x.com/Hannankhan203" target="_blank" style="margin: 0 12px; text-decoration: none; border-radius: 8px; overflow: hidden; display: inline-block;">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://x.com/Hannankhan203" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
