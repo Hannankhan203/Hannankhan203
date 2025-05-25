@@ -104,13 +104,56 @@
 <!-- Projects Section -->
 <h2 align="center">📘 Projects</h2>
 
-| Project Name             | Live Link                                                           | GitHub Repo                                                        | Tech Stack                      |
-| ------------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------- |
-| 🕹️ Classic Games         | [View Live](https://hannankhan203.github.io/Classic-Games/)         | [GitHub](https://github.com/Hannankhan203/Games)                   | HTML, CSS, JavaScript           |
-| 💻 Coursing Site         | [View Live](https://hannankhan203.github.io/Coursing-Site/)         | [GitHub](https://github.com/Hannankhan203/Coursing-Site)           | HTML, CSS, JavaScript           |
-| 🧮 Scientific Calculator | [View Live](https://hannankhan203.github.io/Scientific-Calculator/) | [GitHub](https://github.com/Hannankhan203/Scientific-Calculator)   | HTML, CSS, JavaScript           |
-| 📓 Notes App             | [View Live](https://hannankhan203.github.io/Notes/)                 | [GitHub](https://github.com/Hannankhan203/Notes)                   | HTML, CSS, JavaScript           |
-| 🔐 Authentication Form   | [View Live](https://authentication-form-203.netlify.app/)           | [GitHub](https://github.com/Hannankhan203/Authentication-Form.git) | HTML, CSS, JavaScript, Firebase |
+<p align="center">
+  Here are some of the projects I’ve built using modern web technologies:
+</p>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>📌 Project</th>
+      <th>🔗 Live</th>
+      <th>📁 GitHub</th>
+      <th>🛠️ Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🕹️ Classic Games</td>
+      <td><a href="https://hannankhan203.github.io/Classic-Games/" target="_blank">View Live</a></td>
+      <td><a href="https://github.com/Hannankhan203/Games" target="_blank">GitHub</a></td>
+      <td>HTML, CSS, JavaScript</td>
+    </tr>
+    <tr>
+      <td>💻 Coursing Site</td>
+      <td><a href="https://hannankhan203.github.io/Coursing-Site/" target="_blank">View Live</a></td>
+      <td><a href="https://github.com/Hannankhan203/Coursing-Site" target="_blank">GitHub</a></td>
+      <td>HTML, CSS, JavaScript</td>
+    </tr>
+    <tr>
+      <td>🧮 Scientific Calculator</td>
+      <td><a href="https://hannankhan203.github.io/Scientific-Calculator/" target="_blank">View Live</a></td>
+      <td><a href="https://github.com/Hannankhan203/Scientific-Calculator" target="_blank">GitHub</a></td>
+      <td>HTML, CSS, JavaScript</td>
+    </tr>
+    <tr>
+      <td>📓 Notes App</td>
+      <td><a href="https://hannankhan203.github.io/Notes/" target="_blank">View Live</a></td>
+      <td><a href="https://github.com/Hannankhan203/Notes" target="_blank">GitHub</a></td>
+      <td>HTML, CSS, JavaScript</td>
+    </tr>
+    <tr>
+      <td>🔐 Authentication Form</td>
+      <td><a href="https://authentication-form-203.netlify.app/" target="_blank">View Live</a></td>
+      <td><a href="https://github.com/Hannankhan203/Authentication-Form" target="_blank">GitHub</a></td>
+      <td>HTML, CSS, JavaScript, Firebase</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
