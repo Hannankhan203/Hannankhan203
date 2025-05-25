@@ -90,7 +90,7 @@ I also believe in continuous learning, teamwork, and contributing to tech commun
 <!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/) -->
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Hannankhan203)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox&logoColor=white)](https://my-react-portfolio-203.netlify.app/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/hannan.dev/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/thewebdev_journey/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Hannankhan203)
 
 ---
