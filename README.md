@@ -12,33 +12,40 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p> -->
 
-<!-- Social Media Accounts -->
+<!-- GitHub Follow -->
 <p align="center">
-  <!-- Twitter -->
-  <strong>🐦 Follow me on Twitter for updates and dev content!</strong>
-  <a href="https://x.com/Hannankhan203" target="_blank" style="display: inline-block; margin: 0 30px;">
-    <img src="https://img.shields.io/twitter/follow/Hannankhan203?style=social" alt="Twitter Follow Badge" />
-  </a>
-
-  <!-- Instagram -->
-  <strong>📸 Follow me on Instagram for web dev content and updates!</strong>
-  <a href="https://www.instagram.com/thewebdev_journey/" target="_blank" style="display: inline-block; margin: 0 30px;">
-    <img src="https://img.shields.io/badge/Follow@thewebdev__journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="28"/>
-  </a>
-
-  <!-- GitHub -->
-  <strong>👉 Follow me on GitHub to stay connected!</strong>
-  <a href="https://github.com/Hannankhan203" target="_blank" style="display: inline-block; margin: 0 30px;">
+  <a href="https://github.com/Hannankhan203" target="_blank">
     <img src="https://img.shields.io/github/followers/Hannankhan203?label=Follow&style=social" alt="GitHub Followers Badge" />
   </a>
 </p>
 
 <p align="center">
-  <strong>👉 Follow me on Twitter, Instagram, and GitHub to stay connected!</strong>
+  <strong>👉 Follow me on GitHub to stay connected!</strong>
 </p>
 
-
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/) -->
+
+<!-- Twitter Follow -->
+<p align="center">
+  <a href="https://x.com/Hannankhan203" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/Hannankhan203?style=social" alt="Twitter Follow Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>👉 Follow me on Twitter for updates and dev content!</strong>
+</p>
+
+<!-- Instagram Follow -->
+<p align="center">
+  <a href="https://www.instagram.com/thewebdev_journey/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow@thewebdev__journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>📸 Follow me on Instagram for web dev content and updates!</strong>
+</p>
 
 <!-- Introduction -->
 <p align="center">
