@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <strong>👉 Follow me on Twitter for updates and dev content!</strong>
+  <strong>🐦 Follow me on Twitter for updates and dev content!</strong>
 </p>
 
 <!-- Instagram Follow -->
