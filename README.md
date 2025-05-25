@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Frontend+Developer.;Learning+MERN+Stack+Development.;A+JavaScript+Enthusiast." alt="Typing SVG" />
 </p>
 
+---
+
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -46,6 +48,8 @@
 <p align="center">
   <strong>📸 Follow me on Instagram for web dev content and updates!</strong>
 </p>
+
+---
 
 <!-- Introduction -->
 <p align="center">
