@@ -238,18 +238,38 @@
 
 ---
 
-<h2 align="center" style="font-weight: bold; color: #4A90E2; margin-bottom: 15px;">
+<h2 align="center" style="font-weight: 700; color: #4A90E2; margin-bottom: 25px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   📬 Get In Touch With Me
 </h2>
 
-<div style="text-align:center; font-size:1.1rem; line-height:1;">
-  📧 <strong>Email:</strong> <a href="mailto:ak1818375@gmail.com" style="color:#1DA1F2; text-decoration:none;">ak1818375@gmail.com</a><br><br>
+<div style="text-align:center; font-size: 1.15rem; line-height: 1.8; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 400px; margin: 0 auto;">
+  <p style="margin: 12px 0;">
+    📧 <strong>Email:</strong> 
+    <a href="mailto:ak1818375@gmail.com" style="color:#1DA1F2; text-decoration:none; transition: color 0.3s ease;" onmouseover="this.style.color='#0d8ddb'" onmouseout="this.style.color='#1DA1F2'">
+      ak1818375@gmail.com
+    </a>
+  </p>
   
-  🌐 <strong>Portfolio:</strong> <a href="https://my-react-portfolio-203.netlify.app/" target="_blank" style="color:#1DA1F2; text-decoration:none;">my-react-portfolio-203.netlify.app</a><br><br>
+  <p style="margin: 12px 0;">
+    🌐 <strong>Portfolio:</strong> 
+    <a href="https://my-react-portfolio-203.netlify.app/" target="_blank" style="color:#1DA1F2; text-decoration:none; transition: color 0.3s ease;" onmouseover="this.style.color='#0d8ddb'" onmouseout="this.style.color='#1DA1F2'">
+      my-react-portfolio-203.netlify.app
+    </a>
+  </p>
   
-  🐦 <strong>Twitter:</strong> <a href="https://x.com/Hannankhan203" target="_blank" style="color:#1DA1F2; text-decoration:none;">@Hannankhan203</a><br><br>
+  <p style="margin: 12px 0;">
+    🐦 <strong>Twitter:</strong> 
+    <a href="https://x.com/Hannankhan203" target="_blank" style="color:#1DA1F2; text-decoration:none; transition: color 0.3s ease;" onmouseover="this.style.color='#0d8ddb'" onmouseout="this.style.color='#1DA1F2'">
+      @Hannankhan203
+    </a>
+  </p>
   
-  📸 <strong>Instagram:</strong> <a href="https://www.instagram.com/thewebdev_journey/" target="_blank" style="color:#E4405F; text-decoration:none;">@thewebdev_journey</a>
+  <p style="margin: 12px 0;">
+    📸 <strong>Instagram:</strong> 
+    <a href="https://www.instagram.com/thewebdev_journey/" target="_blank" style="color:#E4405F; text-decoration:none; transition: color 0.3s ease;" onmouseover="this.style.color='#b32e48'" onmouseout="this.style.color='#E4405F'">
+      @thewebdev_journey
+    </a>
+  </p>
 </div>
 
 <!-- - **💼 LinkedIn**: [linkedin.com/in/abdul-hannan-khan-16b358358](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361)   -->
