@@ -276,13 +276,27 @@
 
 ---
 
-## 🎯 2025 Goals
+<h2 align="center" style="color:#3b82f6; font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-bottom: 20px;">
+  🎯 2025 Goals
+</h2>
 
-- ✅ Master the MERN Stack
-- ✅ Build full-stack real-world applications
-- ✅ Contribute to open-source projects
-- ✅ Improve backend skills and learn TypeScript
-- ✅ Sharpen DSA & algorithmic thinking
+<ul style="list-style: none; padding: 0; max-width: 400px; margin: 0 auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.15rem; line-height: 1.8; color: #374151;">
+  <li style="margin-bottom: 12px;">
+    <span style="color: #10b981; font-weight: 700; margin-right: 8px;">✅</span> Master the MERN Stack
+  </li>
+  <li style="margin-bottom: 12px;">
+    <span style="color: #10b981; font-weight: 700; margin-right: 8px;">✅</span> Build full-stack real-world applications
+  </li>
+  <li style="margin-bottom: 12px;">
+    <span style="color: #10b981; font-weight: 700; margin-right: 8px;">✅</span> Contribute to open-source projects
+  </li>
+  <li style="margin-bottom: 12px;">
+    <span style="color: #10b981; font-weight: 700; margin-right: 8px;">✅</span> Improve backend skills and learn TypeScript
+  </li>
+  <li>
+    <span style="color: #10b981; font-weight: 700; margin-right: 8px;">✅</span> Sharpen DSA & algorithmic thinking
+  </li>
+</ul>
 
 ---
 
