@@ -172,8 +172,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hannankhan203&layout=compact&theme=radical&hide_border=false&langs_count=6" alt="Top Languages" />
 </p>
 
+<!-- GitHub Streak -->
+<h2 align="center">🔥 GitHub Streak</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hannankhan203&theme=default)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hannankhan203&theme=radical&hide_border=false" alt="GitHub Streak" />
+  </a>
+</p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Hannankhan203&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) -->
 
