@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <strong><img src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png" alt="Twitter Logo" width="40" /> Follow me on Twitter for updates and dev content!</strong>
+  <strong>👉 Follow me on Twitter for updates and dev content!</strong>
 </p>
 
 Welcome to my GitHub! I'm a passionate developer and continuous learner, currently working my way to becoming a skilled MERN Stack Developer.
