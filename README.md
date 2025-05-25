@@ -80,6 +80,7 @@
 <!-- Technologies and Tools -->
 <h2 align="center">🔧 Technologies & Tools</h2>
 
+<!-- Technologies and Tools Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -100,7 +101,8 @@
 
 ---
 
-## 📘 Projects
+<!-- Projects Section -->
+<h2 align="center">📘 Projects</h2>
 
 | Project Name             | Live Link                                                           | GitHub Repo                                                        | Tech Stack                      |
 | ------------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------- |
