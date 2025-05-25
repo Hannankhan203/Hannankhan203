@@ -1,4 +1,4 @@
-<!-- # Hi there, I'm Abdul Hannan Khan 👋 -->
+<!-- Main Heading -->
 <h1 align="center">Hi there, I'm Abdul Hannan Khan 👋</h1>
 
 <p align="center">
@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p> -->
 
+<!-- GitHub Follow -->
 <p align="center">
   <a href="https://github.com/Hannankhan203" target="_blank">
     <img src="https://img.shields.io/github/followers/Hannankhan203?label=Follow&style=social" alt="GitHub Followers Badge" />
@@ -24,6 +25,7 @@
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/) -->
 
+<!-- Twitter Follow -->
 <p align="center">
   <a href="https://x.com/Hannankhan203" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Hannankhan203?style=social" alt="Twitter Follow Badge" />
@@ -32,6 +34,17 @@
 
 <p align="center">
   <strong>👉 Follow me on Twitter for updates and dev content!</strong>
+</p>
+
+<!-- Instagram Follow -->
+<p align="center">
+  <a href="https://www.instagram.com/thewebdev_journey/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow@thewebdev__journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>📸 Follow me on Instagram for web dev content and updates!</strong>
 </p>
 
 Welcome to my GitHub! I'm a passionate developer and continuous learner, currently working my way to becoming a skilled MERN Stack Developer.
