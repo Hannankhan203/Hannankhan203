@@ -159,8 +159,8 @@
   </tr>
     <tr>
       <td>🚀 Scroll Magic (GSAP Integration)</td>
-      <td><a href="https://github.com/Hannankhan203/Scroll-Magic.git" target="_blank">View Live</a></td>
-      <td><a href="https://scroll-magic-gsap.netlify.app/" target="_blank">GitHub</a></td>
+      <td><a href="https://scroll-magic-gsap.netlify.app/" target="_blank">View Live</a></td>
+      <td><a href="https://github.com/Hannankhan203/Scroll-Magic.git" target="_blank">GitHub</a></td>
       <td>HTML, CSS, JavaScript, GSAP</td>
   </tr>
   </tbody>
