@@ -151,6 +151,12 @@
       <td><a href="https://github.com/Hannankhan203/Authentication-Form" target="_blank">GitHub</a></td>
       <td>HTML, CSS, JavaScript, Firebase</td>
     </tr>
+    <tr>
+      <td>🚀 Landing Page (GSAP Integration)</td>
+      <td><a href="https://hannankhan203.github.io/Landing-Page-GSAP-Integration/" target="_blank">View Live</a></td>
+      <td><a href="https://github.com/Hannankhan203/Landing-Page-GSAP-Integration" target="_blank">GitHub</a></td>
+      <td>HTML, CSS, JavaScript, GSAP</td>
+  </tr>
   </tbody>
 </table>
 
