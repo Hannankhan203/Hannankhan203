@@ -152,11 +152,11 @@
       <td>HTML, CSS, JavaScript, Firebase</td>
     </tr>
     <tr>
-      <td>🚀 Landing Page (GSAP Integration)</td>
-      <td><a href="https://hannankhan203.github.io/Landing-Page-GSAP-Integration/" target="_blank">View Live</a></td>
-      <td><a href="https://github.com/Hannankhan203/Landing-Page-GSAP-Integration" target="_blank">GitHub</a></td>
-      <td>HTML, CSS, JavaScript, GSAP</td>
-  </tr>
+      <td>🧠 Typing Speed Test</td>
+      <td><a href="https://hannankhan203.github.io/Typing-Speed-Test/" target="_blank">View Live</a></td>
+      <td><a href="https://github.com/Hannankhan203/Typing-Speed-Test.git" target="_blank">GitHub</a></td>
+      <td>HTML, CSS, JavaScript, TypeScript</td>
+    </tr>
     <tr>
       <td>🚀 Scroll Magic (GSAP Integration)</td>
       <td><a href="https://scroll-magic-gsap.netlify.app/" target="_blank">View Live</a></td>
