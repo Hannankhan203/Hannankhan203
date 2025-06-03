@@ -158,11 +158,11 @@
       <td>HTML, CSS, JavaScript, TypeScript</td>
     </tr>
     <tr>
-      <td>🚀 Scroll Magic (GSAP Integration)</td>
-      <td><a href="https://scroll-magic-gsap.netlify.app/" target="_blank">View Live</a></td>
-      <td><a href="https://github.com/Hannankhan203/Scroll-Magic.git" target="_blank">GitHub</a></td>
-      <td>HTML, CSS, JavaScript, GSAP</td>
-  </tr>
+  <td>📋 Attendance Tracker</td>
+  <td><a href="https://hannankhan203.github.io/Attendance-Tracker/" target="_blank">View Live</a></td>
+  <td><a href="https://github.com/Hannankhan203/Attendance-Tracker" target="_blank">GitHub</a></td>
+  <td>HTML, CSS, JavaScript</td>
+</tr>
   </tbody>
 </table>
 
