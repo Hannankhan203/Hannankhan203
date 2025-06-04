@@ -143,7 +143,7 @@
       <td>📓 Notes App</td>
       <td><a href="https://hannankhan203.github.io/Notes/" target="_blank">View Live</a></td>
       <td><a href="https://github.com/Hannankhan203/Notes" target="_blank">GitHub</a></td>
-      <td>HTML, CSS, JavaScript</td>
+      <td>HTML, CSS, JavaScript, Local Storage</td>
     </tr>
     <tr>
       <td>🔐 Authentication Form</td>
@@ -161,7 +161,7 @@
   <td>📋 Attendance Tracker</td>
   <td><a href="https://hannankhan203.github.io/Attendance-Tracker/" target="_blank">View Live</a></td>
   <td><a href="https://github.com/Hannankhan203/Attendance-Tracker" target="_blank">GitHub</a></td>
-  <td>HTML, CSS, JavaScript</td>
+  <td>HTML, CSS, JavaScript, Local Storage</td>
 </tr>
   </tbody>
 </table>
