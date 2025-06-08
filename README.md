@@ -21,11 +21,11 @@
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/) -->
 
 <!-- Twitter Follow -->
-<p>
+<p style="display: flex; justify-content: center">
+  <strong>🐦 Follow me on Twitter for updates and dev content!</strong>
   <a href="https://x.com/Hannankhan203" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Hannankhan203?style=social" alt="Twitter Follow Badge" />
   </a>
-  <strong>🐦 Follow me on Twitter for updates and dev content!</strong>
 </p>
 
 <!-- Instagram Follow -->
