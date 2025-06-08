@@ -48,10 +48,10 @@
 ---
 
 <!-- About Section -->
-<h2 align="center">👨‍💻 About Me</h2>
+<h2>👨‍💻 About Me</h2>
 
 <!-- About Me -->
-<p align="center">
+<p>
   I’m a <strong>Computer Science student</strong> at the <strong>National University of Modern Languages (NUML)</strong>, with a passion for <em>web development</em> and <em>software engineering principles</em>.<br><br>
   
   My journey is focused on mastering modern technologies like <strong>MongoDB, Express.js, React.js, and Node.js (MERN Stack)</strong>, while sharpening my logical thinking and problem-solving skills.<br><br>
