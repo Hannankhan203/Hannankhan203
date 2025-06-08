@@ -1,44 +1,44 @@
 <!-- Main Heading -->
-<h1 align="center">Hi there, I'm Abdul Hannan Khan 👋</h1>
+<h1>Hi there, I'm Abdul Hannan Khan 👋</h1>
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Frontend+Developer.;Learning+MERN+Stack+Development.;A+JavaScript+Enthusiast." alt="Typing SVG" />
 </p>
 
 ---
 
 <!-- GitHub Follow -->
-<p align="center">
+<p>
   <a href="https://github.com/Hannankhan203" target="_blank">
     <img src="https://img.shields.io/github/followers/Hannankhan203?label=Follow&style=social" alt="GitHub Followers Badge" />
   </a>
 </p>
 
-<p align="center">
+<p>
   <strong>👉 Follow me on GitHub to stay connected!</strong>
 </p>
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/) -->
 
 <!-- Twitter Follow -->
-<p align="center">
+<p>
   <a href="https://x.com/Hannankhan203" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Hannankhan203?style=social" alt="Twitter Follow Badge" />
   </a>
 </p>
 
-<p align="center">
+<p>
   <strong>🐦 Follow me on Twitter for updates and dev content!</strong>
 </p>
 
 <!-- Instagram Follow -->
-<p align="center">
+<p>
   <a href="https://www.instagram.com/thewebdev_journey/" target="_blank">
     <img src="https://img.shields.io/badge/Follow@thewebdev__journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 </p>
 
-<p align="center">
+<p>
   <strong>📸 Follow me on Instagram for web dev content and updates!</strong>
 </p>
 
@@ -236,7 +236,7 @@
   <a href="https://github.com/Hannankhan203" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/github/followers/Hannankhan203?label=GitHub%20Followers&style=flat-square&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
-  <a href="https://my-react-portfolio-203.netlify.app/" target="_blank" style="margin: 0 10px;">
+  <a href="https://hannankhannn.netlify.app/" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.instagram.com/thewebdev_journey/" target="_blank" style="margin: 0 10px;">
