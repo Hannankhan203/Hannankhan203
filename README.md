@@ -1,14 +1,14 @@
 <!-- Main Heading -->
-<h1>Hi there, I'm Abdul Hannan Khan 👋</h1>
+<h1 align="center">Hi there, I'm Abdul Hannan Khan 👋</h1>
 
-<p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Frontend+Developer.;Learning+MERN+Stack+Development.;A+JavaScript+Enthusiast." alt="Typing SVG" />
 </p>
 
 ---
 
 <!-- GitHub Follow -->
-<p>
+<p align="center">
 <strong>👉 Follow me on GitHub to stay connected!</strong>
   <a href="https://github.com/Hannankhan203" target="_blank">
     <img src="https://img.shields.io/github/followers/Hannankhan203?label=Follow&style=social" alt="GitHub Followers Badge" />
@@ -18,7 +18,7 @@
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/) -->
 
 <!-- Twitter Follow -->
-<p>
+<p align="center">
   <strong>🐦 Follow me on Twitter for updates and dev content!</strong>
   <a href="https://x.com/Hannankhan203" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Hannankhan203?style=social" alt="Twitter Follow Badge" />
@@ -26,7 +26,7 @@
 </p>
 
 <!-- Instagram Follow -->
-<p>
+<p align="center">
 <strong>📸 Follow me on Instagram for web dev content and updates!</strong>
   <a href="https://www.instagram.com/thewebdev_journey/" target="_blank">
     <img src="https://img.shields.io/badge/Follow@thewebdev__journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
@@ -36,11 +36,11 @@
 ---
 
 <!-- Introduction -->
-<p>
+<p align="center">
   <strong>Welcome to my GitHub!</strong>
 </p>
 
-<p>
+<p align="center">
   I'm a passionate developer and continuous learner,<br>
   currently working my way to becoming a skilled <em>MERN Stack Developer</em>.
 </p>
@@ -48,10 +48,10 @@
 ---
 
 <!-- About Section -->
-<h2>👨‍💻 About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <!-- About Me -->
-<p>
+<p align="center">
   I’m a <strong>Computer Science student</strong> at the <strong>National University of Modern Languages (NUML)</strong>, with a passion for <em>web development</em> and <em>software engineering principles</em>.<br><br>
   
   My journey is focused on mastering modern technologies like <strong>MongoDB, Express.js, React.js, and Node.js (MERN Stack)</strong>, while sharpening my logical thinking and problem-solving skills.<br><br>
