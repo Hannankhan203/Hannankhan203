@@ -25,9 +25,6 @@
   <a href="https://x.com/Hannankhan203" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Hannankhan203?style=social" alt="Twitter Follow Badge" />
   </a>
-</p>
-
-<p>
   <strong>🐦 Follow me on Twitter for updates and dev content!</strong>
 </p>
 
