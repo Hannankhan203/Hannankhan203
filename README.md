@@ -9,19 +9,16 @@
 
 <!-- GitHub Follow -->
 <p>
+<strong>👉 Follow me on GitHub to stay connected!</strong>
   <a href="https://github.com/Hannankhan203" target="_blank">
     <img src="https://img.shields.io/github/followers/Hannankhan203?label=Follow&style=social" alt="GitHub Followers Badge" />
   </a>
 </p>
 
-<p>
-  <strong>👉 Follow me on GitHub to stay connected!</strong>
-</p>
-
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/) -->
 
 <!-- Twitter Follow -->
-<p style="display: flex; justify-content: center">
+<p>
   <strong>🐦 Follow me on Twitter for updates and dev content!</strong>
   <a href="https://x.com/Hannankhan203" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Hannankhan203?style=social" alt="Twitter Follow Badge" />
@@ -30,13 +27,10 @@
 
 <!-- Instagram Follow -->
 <p>
+<strong>📸 Follow me on Instagram for web dev content and updates!</strong>
   <a href="https://www.instagram.com/thewebdev_journey/" target="_blank">
     <img src="https://img.shields.io/badge/Follow@thewebdev__journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
-</p>
-
-<p>
-  <strong>📸 Follow me on Instagram for web dev content and updates!</strong>
 </p>
 
 ---
