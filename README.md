@@ -36,11 +36,11 @@
 ---
 
 <!-- Introduction -->
-<p align="center">
+<p>
   <strong>Welcome to my GitHub!</strong>
 </p>
 
-<p align="center">
+<p>
   I'm a passionate developer and continuous learner,<br>
   currently working my way to becoming a skilled <em>MERN Stack Developer</em>.
 </p>
