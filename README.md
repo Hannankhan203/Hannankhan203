@@ -256,8 +256,8 @@
   
   <p style="margin: 12px 0;">
     🌐 <strong>Portfolio:</strong> 
-    <a href="https://my-react-portfolio-203.netlify.app/" target="_blank" style="color:#1DA1F2; text-decoration:none; transition: color 0.3s ease;" onmouseover="this.style.color='#0d8ddb'" onmouseout="this.style.color='#1DA1F2'">
-      my-react-portfolio-203.netlify.app
+    <a href="https://hannankhannn.netlify.app/" target="_blank" style="color:#1DA1F2; text-decoration:none; transition: color 0.3s ease;" onmouseover="this.style.color='#0d8ddb'" onmouseout="this.style.color='#1DA1F2'">
+      HannanKhan
     </a>
   </p>
   
