@@ -227,7 +227,7 @@
   <a href="https://github.com/Hannankhan203" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/github/followers/Hannankhan203?label=GitHub%20Followers&style=flat-square&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
-  <a href="https://hannankhannn.netlify.app/" target="_blank" style="margin: 0 10px;">
+  <a href="https://hannannkhann.vercel.app/" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.instagram.com/thewebdev_journey/" target="_blank" style="margin: 0 10px;">
@@ -256,7 +256,7 @@
   
   <p style="margin: 12px 0;">
     🌐 <strong>Portfolio:</strong> 
-    <a href="https://hannankhannn.netlify.app/" target="_blank" style="color:#1DA1F2; text-decoration:none; transition: color 0.3s ease;" onmouseover="this.style.color='#0d8ddb'" onmouseout="this.style.color='#1DA1F2'">
+    <a href="https://hannannkhann.vercel.app/" target="_blank" style="color:#1DA1F2; text-decoration:none; transition: color 0.3s ease;" onmouseover="this.style.color='#0d8ddb'" onmouseout="this.style.color='#1DA1F2'">
       HannanKhan
     </a>
   </p>
