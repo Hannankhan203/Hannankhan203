@@ -159,7 +159,7 @@
   <td>💬 SuperChat - Real-time Chat App</td>
   <td><a href="https://super-chat-gamma.vercel.app/" target="_blank">View Live</a></td>
   <td><a href="https://github.com/Hannankhan203/SuperChat.git" target="_blank">GitHub</a></td>
-  <td>React, Firebase, Firestore, Context API, CSS</td>
+  <td>React, Firebase Auth, Firestore, Context API, React Router, CSS Modules</td>
 </tr>
 </tr>
   </tbody>
