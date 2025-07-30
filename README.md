@@ -86,6 +86,7 @@
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
   <img src="https://img.shields.io/badge/Animate.css-FF69B4?style=for-the-badge&logo=css3&logoColor=white" alt="Animate.css Badge" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge" />
 </p>
 
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) -->
