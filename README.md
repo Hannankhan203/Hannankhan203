@@ -155,12 +155,18 @@
   <td><a href="https://hannankhan203.github.io/Attendance-Tracker/" target="_blank">View Live</a></td>
   <td><a href="https://github.com/Hannankhan203/Attendance-Tracker" target="_blank">GitHub</a></td>
   <td>HTML, CSS, JavaScript, Local Storage</td>
+  </tr>
   <tr>
   <td>💬 SuperChat - Real-time Chat App</td>
   <td><a href="https://super-chat-gamma.vercel.app/" target="_blank">View Live</a></td>
   <td><a href="https://github.com/Hannankhan203/SuperChat.git" target="_blank">GitHub</a></td>
   <td>React, Firebase Auth, Firestore, Context API, React Router, CSS Modules</td>
 </tr>
+<tr>
+  <td>📚 Student Management System</td>
+  <td><a href="https://student-management-system-lilac-zeta.vercel.app/" target="_blank">View Live</a></td>
+  <td><a href="https://github.com/Hannankhan203/Student-Management-System" target="_blank">GitHub</a></td>
+  <td>React, Firebase Auth, Firestore, React Router, CSS Modules</td>
 </tr>
   </tbody>
 </table>
