@@ -240,12 +240,12 @@
   <a href="https://hannannkhann.vercel.app/" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.instagram.com/thewebdev_journey/" target="_blank" style="margin: 0 10px;">
+  <!-- <a href="https://www.instagram.com/thewebdev_journey/" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://x.com/Hannankhan203" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/twitter/follow/Hannankhan203?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Follow" />
-  </a>
+  </a> -->
 </p>
 
 <!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/) -->
@@ -271,7 +271,7 @@
     </a>
   </p>
   
-  <p style="margin: 12px 0;">
+  <!-- <p style="margin: 12px 0;">
     🐦 <strong>Twitter:</strong> 
     <a href="https://x.com/Hannankhan203" target="_blank" style="color:#1DA1F2; text-decoration:none; transition: color 0.3s ease;" onmouseover="this.style.color='#0d8ddb'" onmouseout="this.style.color='#1DA1F2'">
       @Hannankhan203
@@ -283,7 +283,7 @@
     <a href="https://www.instagram.com/thewebdev_journey/" target="_blank" style="color:#E4405F; text-decoration:none; transition: color 0.3s ease;" onmouseover="this.style.color='#b32e48'" onmouseout="this.style.color='#E4405F'">
       @thewebdev_journey
     </a>
-  </p>
+  </p> -->
 </div>
 
 <!-- - **💼 LinkedIn**: [linkedin.com/in/abdul-hannan-khan-16b358358](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361)   -->
@@ -291,7 +291,7 @@
 ---
 
 <h2 align="center" style="color:#3b82f6; font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-bottom: 20px;">
-  🎯 2025 Goals
+  🎯 2026 Goals
 </h2>
 
 <ul style="list-style: none; padding: 0; max-width: 400px; margin: 0 auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.15rem; line-height: 1.8; color: #374151;">
