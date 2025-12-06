@@ -10,6 +10,7 @@
 <!-- GitHub Follow -->
 <p align="center">
 <strong>👉 Follow me on GitHub to stay connected!</strong>
+<br />
   <a href="https://github.com/Hannankhan203" target="_blank">
     <img src="https://img.shields.io/github/followers/Hannankhan203?label=Follow&style=social" alt="GitHub Followers Badge" />
   </a>
