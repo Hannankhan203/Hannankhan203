@@ -1,14 +1,14 @@
 <!-- Main Heading -->
-<h1>Hi there, I'm Abdul Hannan Khan 👋</h1>
+<h1 align="center">Hi there, I'm Abdul Hannan Khan 👋</h1>
 
-<p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Frontend+Developer.;Learning+MERN+Stack+Development.;A+JavaScript+Enthusiast." alt="Typing SVG" />
 </p>
 
 ---
 
 <!-- GitHub Follow -->
-<p>
+<p align="center">
 <strong>👉 Follow me on GitHub to stay connected!</strong>
   <a href="https://github.com/Hannankhan203" target="_blank">
     <img src="https://img.shields.io/github/followers/Hannankhan203?label=Follow&style=social" alt="GitHub Followers Badge" />
@@ -18,7 +18,7 @@
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/) -->
 
 <!-- Twitter Follow -->
-<p>
+<p align="center">
   <strong>🐦 Follow me on Twitter for updates and dev content!</strong>
   <a href="https://x.com/Hannankhan203" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Hannankhan203?style=social" alt="Twitter Follow Badge" />
@@ -26,7 +26,7 @@
 </p>
 
 <!-- Instagram Follow -->
-<p>
+<p align="center">
 <strong>📸 Follow me on Instagram for web dev content and updates!</strong>
   <a href="https://www.instagram.com/thewebdev_journey/" target="_blank">
     <img src="https://img.shields.io/badge/Follow@thewebdev__journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
@@ -36,11 +36,11 @@
 ---
 
 <!-- Introduction -->
-<p>
+<p align="center">
   <strong>Welcome to my GitHub!</strong>
 </p>
 
-<p>
+<p align="center">
   I'm a passionate developer and continuous learner,<br>
   currently working my way to becoming a skilled <em>MERN Stack Developer</em>.
 </p>
@@ -48,10 +48,10 @@
 ---
 
 <!-- About Section -->
-<h2>👨‍💻 About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <!-- About Me -->
-<p>
+<p align="center">
   I’m a <strong>Computer Science student</strong> at the <strong>National University of Modern Languages (NUML)</strong>, with a passion for <em>web development</em> and <em>software engineering principles</em>.<br><br>
   
   My journey is focused on mastering modern technologies like <strong>MongoDB, Express.js, React.js, and Node.js (MERN Stack)</strong>, while sharpening my logical thinking and problem-solving skills.<br><br>
@@ -69,10 +69,10 @@
 ---
 
 <!-- Technologies and Tools -->
-<h2>🔧 Technologies & Tools</h2>
+<h2 align="center">🔧 Technologies & Tools</h2>
 
 <!-- Technologies and Tools Badges -->
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -95,14 +95,14 @@
 ---
 
 <!-- Projects Section -->
-<h2>📘 Projects</h2>
+<h2 align="center">📘 Projects</h2>
 
 <!-- Projects Table -->
-<p>
+<p align="center">
   Here are some of the projects I’ve built using modern web technologies:
 </p>
 
-<div>
+<div align="center">
 
 <table>
   <thead>
@@ -176,32 +176,32 @@
 ---
 
 <!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hannankhan203&show_icons=true&theme=radical&hide_border=false&rank_icon=github&include_all_commits=true&custom_title=Hannan's%20GitHub%20Stats" alt="GitHub Stats" />
 </p>
 
 <!-- Top Languages -->
-<h2>🧠 Top Languages</h2>
+<h2 align="center">🧠 Top Languages</h2>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hannankhan203&layout=compact&theme=radical&hide_border=false&langs_count=6" alt="Top Languages" />
 </p>
 
 <!-- GitHub Streak -->
-<h2>🔥 GitHub Streak</h2>
+<h2 align="center">🔥 GitHub Streak</h2>
 
-<p>
+<p align="center">
   <a href="https://git.io/streak-stats" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hannankhan203&theme=radical&hide_border=false" alt="GitHub Streak" />
   </a>
 </p>
 
 <!-- GitHub Trophies -->
-<h2>🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-<p>
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img 
       src="https://github-profile-trophy.vercel.app/?username=Hannankhan203&theme=algolia&no-frame=true&margin-w=15&margin-h=15" 
@@ -215,9 +215,9 @@
 ---
 
 <!-- Certificates -->
-<h2>🏅 Certificates</h2>
+<h2 align="center">🏅 Certificates</h2>
 
-<p>
+<p align="center">
   ✅ <strong>Responsive Web Design</strong> – freeCodeCamp <br />
   ✅ <strong>CSS (Basic)</strong> – HackerRank <br />
   ✅ <strong>JavaScript (Basic)</strong> – HackerRank <br />
@@ -227,16 +227,16 @@
   ✅ <strong>JavaScript Essentials 1</strong> – Cisco (Offered by SMIT)
 </p>
 
-<p>
+<p align="center">
   📁 <em>Certificates are available in the <code>Certificates</code> folder of this profile repo.</em>
 </p>
 
 ---
 
 <!-- Connect With Me -->
-<h2>🌐 Connect with Me</h2>
+<h2 align="center">🌐 Connect with Me</h2>
 
-<p style="margin-top: 1em;">
+<p align="center" style="margin-top: 1em;">
   <a href="https://github.com/Hannankhan203" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/github/followers/Hannankhan203?label=GitHub%20Followers&style=flat-square&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
@@ -255,7 +255,7 @@
 
 ---
 
-<h2 style="font-weight: 700; color: #4A90E2; margin-bottom: 25px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<h2 align="center" style="font-weight: 700; color: #4A90E2; margin-bottom: 25px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   📬 Get In Touch With Me
 </h2>
 
@@ -293,7 +293,7 @@
 
 ---
 
-<h2 style="color:#3b82f6; font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-bottom: 20px;">
+<h2 align="center" style="color:#3b82f6; font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-bottom: 20px;">
   🎯 2025 Goals
 </h2>
 
