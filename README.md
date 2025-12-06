@@ -20,20 +20,20 @@
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/abdul-hannan-khan-bab1a7361/) -->
 
 <!-- Twitter Follow -->
-<p align="center">
+<!-- <p align="center">
   <strong>🐦 Follow me on Twitter for updates and dev content!</strong>
   <a href="https://x.com/Hannankhan203" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Hannankhan203?style=social" alt="Twitter Follow Badge" />
   </a>
-</p>
+</p> -->
 
 <!-- Instagram Follow -->
-<p align="center">
+<!-- <p align="center">
 <strong>📸 Follow me on Instagram for web dev content and updates!</strong>
   <a href="https://www.instagram.com/thewebdev_journey/" target="_blank">
     <img src="https://img.shields.io/badge/Follow@thewebdev__journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
-</p>
+</p> -->
 
 ---
 
