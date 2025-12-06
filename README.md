@@ -117,10 +117,10 @@
   </thead>
   <tbody>
     <tr>
-      <td>🕹️ Classic Games</td>
-      <td><a href="https://hannankhan203.github.io/Classic-Games/" target="_blank">View Live</a></td>
-      <td><a href="https://github.com/Hannankhan203/Games" target="_blank">GitHub</a></td>
-      <td>HTML, CSS, JavaScript</td>
+      <td>⚖️ BMI Calculator</td>
+      <td><a href="https://hannankhan203.github.io/BMI-Calculator/" target="_blank">View Live</a></td>
+      <td><a href="https://github.com/Hannankhan203/BMI-Calculator" target="_blank">GitHub</a></td>
+      <td>HTML, CSS, JavaScript, Bootstrap, GSAP</td>
     </tr>
     <tr>
       <td>💻 Coursing Site</td>
