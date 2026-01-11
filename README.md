@@ -154,21 +154,21 @@
 ---
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hannankhan203&show_icons=true" alt="GitHub Stats" />
-</p>
+</p> -->
 
-<!-- <h2 align="center">📊 GitHub Stats</h2> -->
-<!-- <p align="center"> -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
   <!-- Followers -->
-  <!-- <img src="https://img.shields.io/github/followers/Hannankhan203?label=Followers&style=social" alt="Followers" /> -->
+  <img src="https://img.shields.io/github/followers/Hannankhan203?label=Followers&style=social" alt="Followers" /> -->
   <!-- Public repos -->
-  <!-- <img src="https://img.shields.io/github/repos/Hannankhan203?label=Public%20Repos" alt="Repos" /> -->
+  <img src="https://img.shields.io/github/repos/Hannankhan203?label=Public%20Repos" alt="Repos" />
   <!-- GitHub stars (global is per repo, so show for one repo as example) -->
-  <!-- <img src="https://img.shields.io/github/stars/Hannankhan203/Games?label=Stars%20(Games%20repo)" alt="Stars" /> -->
-<!-- </p> -->
+ <img src="https://img.shields.io/github/stars/Hannankhan203/Games?label=Stars%20(Games%20repo)" alt="Stars" />
+</p>
 
 
 <!-- Top Languages -->
